@@ -1,0 +1,15 @@
+{
+  "name": "correia.app",
+  "version": "0.0.0",
+  "description": "correia.app",
+  "main": "app.js",
+  "author": {
+    "name": "luciano",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
